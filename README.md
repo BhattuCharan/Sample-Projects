@@ -188,22 +188,6 @@ DAX – Measures and time intelligence
 
 GitHub – Project versioning and portfolio presentation
 
-📂 Repository Structure
-Pharmacy-Sales-PowerBI-Dashboard/
-│
-├── Dataset/
-│   └── Pharmacy_Sales_Dataset_India.xlsx
-│
-├── PowerBI/
-│   └── Pharmacy_Sales_Dashboard.pbix
-│
-├── Prompt/
-│   └── Dataset_Generation_Prompt.txt
-│
-├── Screenshots/
-│   └── Dashboard_Overview.png
-│
-└── README.md
 
 🚀 Portfolio Value
 
